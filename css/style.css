@@ -1,0 +1,38 @@
+body{
+    background-color:gray;
+    color: #f4f4f4;
+  
+    font: normal 20px serif;
+    line-height: 1.6em;
+    margin:0;
+
+}
+.container{
+    width: 80%;
+    margin:auto;
+}
+
+.box1{
+    background-color: black;
+    border: 5px darkgray solid;
+    border-radius: 25px;
+    border-width: 6px;
+    padding: 5px;
+}
+.container h1{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+table, td, th{
+    border-collapse: collapse;
+    border: 1px solid;
+}
+ul li{
+    background-color: black;
+    margin:5px;
+
+}
+#description{
+    background-color: red;
+}
